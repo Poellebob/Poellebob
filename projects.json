@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "name": "wallpaper-engine-linux-gui",
+      "description": "GUI application that applies wallpapers from Wallpaper Engine on Linux systems",
+      "tech": ["Python", "GTK", "Linux"],
+      "links": {
+        "github": "https://github.com/Poellebob/wallpaper-engine-linux-gui",
+        "demo": null
+      }
+    },
+    
+    {
+      "name": "minima-shell",
+      "description": "Minimal shell interface for Wayland compositors - NO WAYBAR HERE!!!!",
+      "tech": ["QML", "Qt", "Wayland"],
+      "links": {
+        "github": "https://github.com/Poellebob/minima-shell",
+        "demo": null
+      }
+    },
+    
+    {
+      "name": "nsmbw-red-mushroom-house-solver",
+      "description": "Website to solve red mushroom houses in Super Mario Bros. Wii",
+      "tech": ["JavaScript", "HTML", "CSS"],
+      "links": {
+        "github": "https://github.com/Poellebob/nsmbw-red-mushroom-house-solver",
+        "demo": "https://poellebob.github.io/nsmbw-red-mushroom-house-solver/"
+      }
+    }
+  ]
+}
