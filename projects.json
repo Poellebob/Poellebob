@@ -12,7 +12,7 @@
     
     {
       "name": "minima-shell",
-      "description": "Minimal shell interface for Wayland compositors - NO WAYBAR HERE!!!!",
+      "description": "Hyprland rice - NO WAYBAR HERE!!!!",
       "tech": ["QML", "Qt", "Wayland"],
       "links": {
         "github": "https://github.com/Poellebob/minima-shell",
